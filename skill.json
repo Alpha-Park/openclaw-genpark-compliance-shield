@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-compliance-shield",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Compliance Shield - Agent autonomous policy and differential privacy limiter with RBAC/ABAC rules and Laplace noise mechanism.",
+  "tools": [
+    "evaluate_action_policy",
+    "apply_differential_privacy_noise",
+    "evaluate_rate_limit_token_bucket"
+  ]
+}
